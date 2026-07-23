@@ -1,21 +1,15 @@
 {
   "payload": {
     "schema": 1,
-    "generated_unix": 1784841982,
+    "generated_unix": 1784843367,
     "licenses": [
       {
         "hash": "26e46193a1b13bc83a6e7f1351d8646b707bbc75e224ca0829dd64a01b77cd9d",
         "active": true,
         "expires_unix": null,
         "label": "Owner"
-      },
-      {
-        "hash": "2ba5297fee1d7b6fd054c01fddcbd2c71ca64883e6a784d84f5d8e55554742dc",
-        "active": true,
-        "expires_unix": 1785705982,
-        "label": "test"
       }
     ]
   },
-  "signature": "p3OyZX8k3b3QWcfx6mzZ6kw3Z8kP6RmcZk1IFbcObloAEgleuyJp5xp6dqp0rbx9Y+d8mqRA9V154keZwaN/BA=="
+  "signature": "UYi0pe9+/u/u0+c4OyM8ip2guCUnyGrEORcmiuv7DSF2UkyqyOZmVsvd6ulrWQDB6UCl88fBuVk96TuoTM4UCA=="
 }
