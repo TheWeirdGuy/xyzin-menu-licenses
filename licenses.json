@@ -1,7 +1,7 @@
 {
   "payload": {
     "schema": 1,
-    "generated_unix": 1784843380,
+    "generated_unix": 1784843435,
     "licenses": [
       {
         "hash": "26e46193a1b13bc83a6e7f1351d8646b707bbc75e224ca0829dd64a01b77cd9d",
@@ -14,8 +14,14 @@
         "active": true,
         "expires_unix": null,
         "label": "CommanderMine"
+      },
+      {
+        "hash": "087e64ec633244b64af71b171a864020b8e71dceb43dcbafc827c8241f1089e3",
+        "active": true,
+        "expires_unix": null,
+        "label": "dogu"
       }
     ]
   },
-  "signature": "5CyEiF4pQRdRDVWl++GBMhXgQGwRbHdjulqi9IDKIimVaLMf1HAXL2g4arbZgglJ4uYJcpYWN4c9LjWdbzsUBA=="
+  "signature": "sacrJWqWS8UPXLlEDQyw0baWbJCCS1GxBDxgGnp3RiJNsA7ICjfz5kCXohFwQPoG6jQ3TdAj4LPeTucLYj1bAg=="
 }
